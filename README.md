@@ -1,1 +1,2 @@
-# digit_recognition
+# digit
+Handwritten digit recognition
